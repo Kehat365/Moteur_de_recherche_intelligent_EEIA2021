@@ -1,9 +1,9 @@
 # Créer un moteur de recherche intelligent, capable de comprendre le sens de la requete lancé par un utilisateur malgré les fautes d'ortographes ou l'utilisation de synonyme
 
 # Informations préalables
-chemin_1 = "C:/Users/kehat/Documents/archive/EEIA_2021/__04__projets_d_application/moteur_de_recherche/moteur_de_recherche/liste_des_articles.csv"
+chemin_1 = "liste_des_articles.csv"
 separateur_1 = ","
-chemin_2 = "C:/Users/kehat/Documents/archive/EEIA_2021/__04__projets_d_application/moteur_de_recherche/moteur_de_recherche/liste_des_recherches.csv"
+chemin_2 = "liste_des_recherches.csv"
 separateur_2 = ","
 #historiques = []
 recherche = "computer"
