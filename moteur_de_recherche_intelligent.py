@@ -1,11 +1,8 @@
-# Créer un moteur de recherche intelligent, capable de comprendre le sens de la requete lancé par un utilisateur malgré les fautes d'ortographes ou l'utilisation de synonyme
-
 # Informations préalables
-chemin_1 = "liste_des_articles.csv"
+chemin_1 = "liste_des_articles.csv" # Chemin vers la base de données des articles
 separateur_1 = ","
-chemin_2 = "liste_des_recherches.csv"
+chemin_2 = "liste_des_recherches.csv" # Chemin vers la base de données de l'historique des recherches
 separateur_2 = ","
-#historiques = []
 recherche = "computer"
 
 # Importation des modules
